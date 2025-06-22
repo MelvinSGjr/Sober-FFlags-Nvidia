@@ -1,0 +1,30 @@
+{
+    "allow_gamepad_permission": false,
+    "bring_back_oof": true,
+    "discord_rpc_enabled": false,
+    "enable_gamemode": true,
+    "enable_hidpi": false,
+    "fflags": {
+        "DFIntCSGLevelOfDetailSwitchingDistance": 10,
+        "DFIntCSGLevelOfDetailSwitchingDistanceL12": 15,
+        "DFIntCSGLevelOfDetailSwitchingDistanceL23": 20,
+        "DFIntCSGLevelOfDetailSwitchingDistanceL34": 25,
+        "DFIntMaxParticleCount": "50",
+        "DFIntTaskSchedulerTargetFps": "1000",
+        "FFlagDebugDisableDynamicHeap": true,
+        "FFlagDebugDisableTriangleIndexBuffer": true,
+        "FFlagDebugGraphicsPreferVulkan": true,
+        "FFlagExample": true,
+        "FFlagRenderEnableParallelBufferJobs": true,
+        "FFlagRenderSkipForwardRender": true,
+        "FFlagRenderVulkanFixMinimizeWindow": true,
+        "FFlagRenderVulkanForceExclusiveFullscreen": true,
+        "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
+        "FIntFRMMaxGrassDistance": 0,
+        "FIntRenderCharacterLodScale": "30"
+    },
+    "server_location_indicator_enabled": true,
+    "touch_mode": "off",
+    "use_libsecret": false,
+    "use_opengl": false
+}
