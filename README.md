@@ -1,5 +1,5 @@
 # Roblox FFlags Optimization Guide for Sober (Vinegar)  
-*For NVIDIA RTX 3060 Ti Systems on Linux*  
+*For NVIDIA RTX 3060 Ti on Linux*  
 
 ![Roblox Performance Diagram](https://via.placeholder.com/800x400?text=FFlags+Performance+Optimization)  
 
