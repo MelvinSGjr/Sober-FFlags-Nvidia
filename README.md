@@ -120,5 +120,5 @@ gsettings set org.cinnamon enable-vfade false
 
 ![Performance Comparison Graph](https://via.placeholder.com/600x300?text=FPS+Comparison+Chart)  
 
-**Verified on:** EndeavourOS 2023.08 | Linux 6.4.12 | Cinnamon 5.8.4  
+**Verified on:** EndeavourOS | 6.14.9-arch1-1 | Cinnamon 5.8.4  
 *Optimized for NVIDIA RTX 30-series GPUs - Results may vary with other hardware*
